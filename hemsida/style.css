@@ -27,17 +27,17 @@ nav li a {
 	display: block;
 	text-decoration: none;
 	float: center;
-	color:black;
+	color:white;
 	background-color:green;
 	
 }
 
-nav li {
+nav {
 	float: center;
 	text-align: center;
 }
 
-nav li a:hover{
+nav :hover{
 	background-color:red;
 }
 
@@ -55,10 +55,19 @@ caption {
 	
 }
 	table, th, td {
-	border:1px solid black;
+	border:2px solid black;
 	border-collapse: collapse;
 	font-family: arial;
 	font-size: 35px;
 	margin: auto;
+	color:white;
+	
 }
 
+.lista {
+	color: white;
+}
+
+.text1 {
+	font-size: 30px;
+}
