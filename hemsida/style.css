@@ -41,39 +41,24 @@ nav li a:hover{
 	background-color:red;
 }
 
-table {
+
+
+
 	
-/*td:nth-child(1)  {
-	text-align:left;
-	color:white;
 
-}
-td:nth-child(2), td:nth-child(3) {
-	text-align: center;
-}
-
-td:nth-child(4) {
-	text-align: right;
-}
-
-tr:nth-child(2), tr:nth-child(4) {
-    background-color: red;
-}
-
-tr:nth-child(3), tr:nth-child(5) {
-	background-color: green;
-	color:white
-}
-table, th, td {
-	border:1px solid black;
-	border-collapse: collapse;
-	font-family: arial;
-	font-size: 35px;
-	color:white;
-}
 caption {
 	caption-side: bottom;
 	text-align: center;
 	font-size: 30px;
 	font-family: arial;
+	color: white;
+	
 }
+	table, th, td {
+	border:1px solid black;
+	border-collapse: collapse;
+	font-family: arial;
+	font-size: 35px;
+	margin: auto;
+}
+
